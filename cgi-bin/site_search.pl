@@ -196,7 +196,7 @@ function MM_swapImage() { //v3.0
  											 ABN 18 577 053 518<br>
 										PO Box 305, Belmont, Geelong, 3216, Australia<br>
   												+ 61 3 5241 2008<br>
-  Email:<script language=javascript>var em1="pat.naughtin";var em2="metricationmatters.com";document.write("<a href="+"mail"+"to:"+em1+"@"+em2+">"+em1+"@"+em2+"</a>")</script>
+  Email:<script language=javascript>var em1="pat.naughtin";var em2="metricationmatters.org";document.write("<a href="+"mail"+"to:"+em1+"@"+em2+">"+em1+"@"+em2+"</a>")</script>
         </span></p>
 <p align="center">
   <a href="javascript:addbookmark()" class="footer"><strong>Add to Favorites</strong></a>
