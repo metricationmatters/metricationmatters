@@ -6,7 +6,7 @@
 <meta name="Description" CONTENT=" All about metrication, metric conversion, the metric system, SI units, and other Metrication matters.">
 <meta name="Keywords" CONTENT="METRICATION, METRICATION MATTERS, METRICATION CONSULTANT, METRIC CONVERSION, METRIC CONVERSION CONSULTANT, METRIC, METRIC SYSTEM, METRIC SYSTEM CONSULTANT, METRIC MEASUREMENT, METRICATION WRITING, METRICATION EDITING">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<base href="http://www.MetricationMatters.com/">
+<base href="http://metricationmatters.org/">
 <script language="JavaScript" src="http://www.eservice.com.au/fsc_cookies.js"></script>
 <script language="JavaScript" src="http://www.eservice.com.au/fsc_popup.js"></script>
 <script language="JavaScript">
@@ -37,7 +37,7 @@ function MM_preloadImages() { //v3.0
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-var bookmarkurl="http://www.MetricationMatters.com"
+var bookmarkurl="http://metricationmatters.org"
 var bookmarktitle="Metrication Matters: Search"
 
 function addbookmark(){
